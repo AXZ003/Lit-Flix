@@ -19,7 +19,7 @@ This website will allow the user to search for any movie and it will render info
 
 # Going To The Site
 
-https://kneel25.github.io/Lit-Flix-Project1/
+https://axz003.github.io/Lit-Flix/
 
 # Authors 
 <ul>

@@ -1,7 +1,5 @@
 # Lit-Flix
 
-# Lit-Flix-Project1
-
 This website will allow the user to search for any movie and it will render information, rating, movie poster, trailers and showtimes.
 
 # Technologies Used / Built With

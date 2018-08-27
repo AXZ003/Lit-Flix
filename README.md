@@ -1,6 +1,6 @@
 # Lit-Flix
 
-This website will allow the user to search for any movie and it will render information, rating, movie poster, trailers and showtimes.
+This application allows users to search for current and past movies. After inputing a movie in the serach box the app will render summary, rating, movie poster, trailers and showtimes.
 
 # Technologies Used / Built With
 <ul>
@@ -17,7 +17,7 @@ This website will allow the user to search for any movie and it will render info
 
 # Going To The Site
 
-https://axz003.github.io/Lit-Flix/
+Visit the site [here](https://axz003.github.io/Lit-Flix/).
 
 # Authors 
 <ul>

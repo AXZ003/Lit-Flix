@@ -1,6 +1,6 @@
 # Lit-Flix
 
-This application allows users to search for current and past movies. After inputing a movie in the serach box the app will render summary, rating, movie poster, trailers and showtimes.
+This application allows users to search for current and past movies using the OMDB, YouTube and GraceNote API. After the user inputs a movie in the serach box the app will render the summary, rating, movie poster, trailers and showtimes for that specific movie.
 
 # Technologies Used / Built With
 <ul>
